@@ -1,0 +1,38 @@
+.header {
+    margin-left: 60%;
+}
+.button {
+    background-color: rgb(233, 243, 93);
+    border: none;
+    color: white;
+    padding: 7px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .textbox {
+    padding: 7px 25px;
+    margin: 4px 2px;
+    font-size: 12px;
+  }
+
+  .selector {
+    padding: 7px 25px;
+    margin: 4px 2px;
+    font-size: 12px;
+  }
+
+  ul li {
+    background: #cce5ff;
+    margin: 5px;
+  }
+
+  ul {
+    background: #def57a;
+    padding: 20px;
+    width:20%;
+  }
